@@ -14,6 +14,13 @@ body{
   background: rgb(207,139,243);
 background: linear-gradient(0deg, rgba(207,139,243,1) 0%, rgba(167,112,239,1) 100%);
 }
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+  color: #a770ef;
+}
 ::selection{
   color: #fff;
   background: #CF8BF3;
